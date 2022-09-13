@@ -1,4 +1,4 @@
-# mysql-db-backup (send report success to Telegram Bot)
+# mysql-db-backup
 
 backup DB mysql table and send report success to Telegram Bot
 
