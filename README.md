@@ -3,12 +3,17 @@
 required
 --------
 install prettytable
-.. code:: python
+```sh
     python -m pip install -U prettytable
+```
 
 You can install it with pip:
 .. code:: python
     python3 -m pip install PyMySQL
+
+for telegram
+.. code:: python
+    python -m pip install requests
 
 Example
 -------
