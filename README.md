@@ -31,3 +31,4 @@ copy data many tables
 ```python
 python3 main.py -t tablename1,tablename2,tablename3,tablename4,tablename5
 ```
+update token
