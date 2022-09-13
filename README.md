@@ -19,10 +19,13 @@ python -m pip install requests
 
 Example
 -------
-copy data 1 table
-.. code:: python
-    python3 main.py -t tablename
+you can run for backup
 
+copy data 1 table
+```python
+python3 main.py -t tablename
+```
 copy data many tables
-    .. code:: python
-    python3 main.py -t tablename1,tablename2,tablename3,tablename4,tablename5
+```python
+python3 main.py -t tablename1,tablename2,tablename3,tablename4,tablename5
+```
