@@ -21,7 +21,7 @@ class BCK:
             return cursor.fetchall()
         except Exception as e:
             tele.TelegramBot(e)
-            return False;
+            return False
 
     # Get DDL Information
     def get_ddl_information(self, table):
