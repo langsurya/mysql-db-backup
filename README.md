@@ -13,8 +13,9 @@ python3 -m pip install PyMySQL
 ```
 
 for telegram
-.. code:: python
-    python -m pip install requests
+```pip
+python -m pip install requests
+```
 
 Example
 -------
