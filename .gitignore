@@ -1,0 +1,7 @@
+#-------------------------
+# Environment Files
+#-------------------------
+# These should never be under version control,
+# as it poses a security risk.
+config.ini
+__pycache__/
