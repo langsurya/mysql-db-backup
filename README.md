@@ -1,5 +1,7 @@
 # mysql-db-backup (send report success to Telegram Bot)
 
+backup DB mysql table and send report success to Telegram Bot
+
 required
 --------
 install prettytable
