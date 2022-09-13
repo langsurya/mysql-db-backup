@@ -85,7 +85,6 @@ class Main:
 
 start = time.time()
 tbls = None
-# tbls = ["absensi","antispam","aset"]
 
 # Initialize parser
 parser = argparse.ArgumentParser()
@@ -125,6 +124,5 @@ if tbls is not None:
     cons = "\nFinished in [" + str(datetime.timedelta(seconds=int(time.time() - start))) + "]"
     print(str(t))
     sendtbl = f'<pre>{t}</pre>'
-    # cc="@Elangsurya @alfarizi93"
     cc=None
     tele.TelegramBot("%s %s" % (sendtbl, cons), cc);
