@@ -5,7 +5,6 @@ import datetime
 import time
 from myObject import *
 import TelegramBot as tele
-import json
 import argparse
 from prettytable import PrettyTable
 import pathlib
